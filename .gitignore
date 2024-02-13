@@ -1,0 +1,6 @@
+
+password.txt 
+
+it add .gitignore
+git commit -m "Add .gitignore to exclude passwords file"
+git push origin master
